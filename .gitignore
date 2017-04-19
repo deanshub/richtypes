@@ -1,3 +1,6 @@
 node_modules/
 output/
 *.lock
+model_*
+!model_richtypes*
+__pycache__/
